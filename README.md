@@ -15,14 +15,6 @@ Here will be the order:
  - 2 will be on the left side of 3
  
 Final result can be shown below: 
-<
-        7
-       /  \
-      5     8
-     / \     \ 
-    1   6      9
-  /   \
- 0      3
-       /  \
-      2     4
->
+
+
+![image](https://user-images.githubusercontent.com/76889160/181637818-aa86f352-ff1b-4dc5-bc36-b21235486001.png)
