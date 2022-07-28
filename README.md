@@ -15,7 +15,7 @@ Here will be the order:
  - 2 will be on the left side of 3
  
 Final result can be shown below: 
-<b> 
+<
         7
        /  \
       5     8
@@ -25,4 +25,4 @@ Final result can be shown below:
  0      3
        /  \
       2     4
-<\b>
+>
